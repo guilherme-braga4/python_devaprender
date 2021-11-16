@@ -14,7 +14,7 @@
 #Desafio 1: Programa que retorna Valor/Hora através das entradas: Horas trabalhadas e Salário Mensal
 
 horas_trabalhadas = int(input("Digite a quantidade de horas trabalhadas: "))
-salario = int(input("Digite o salario mensal: "))
+salario = int(input("Digite o salário mensal: "))
 
 valor_hora =  salario / horas_trabalhadas 
 
