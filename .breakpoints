@@ -4,8 +4,16 @@
       {
         "id": "d0bac7ff-0833-43b6-9720-30b118f52bc4",
         "line": 3,
-        "version": 702,
+        "version": 704,
         "index": 53
+      }
+    ],
+    "projeto1.py": [
+      {
+        "id": "bc5bdaf9-4aab-4663-91fe-a0cc4b20b306",
+        "line": 7,
+        "version": 3547,
+        "index": 152
       }
     ]
   }
